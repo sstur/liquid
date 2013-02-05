@@ -1,0 +1,24 @@
+{
+  "name": "liquid",
+  "version": "0.0.0",
+  "description": "JavaScript port of Tobias Luetke's Liquid template engine",
+  "main": "liquid.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sstur/liquid.git"
+  },
+  "keywords": [
+    "liquid",
+    "template",
+    "engine",
+    "port",
+    "tobias",
+    "lutke",
+    "shopify"
+  ],
+  "author": "sstur@me.com",
+  "license": "BSD"
+}
