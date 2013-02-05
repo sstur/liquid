@@ -1,7 +1,7 @@
 {
   "name": "liquid",
   "version": "0.0.0",
-  "description": "JavaScript port of Tobias Luetke's Liquid template engine",
+  "description": "JavaScript port of Shopify's Liquid template engine",
   "main": "liquid.js",
   "scripts": {
     "test": "mocha test"
